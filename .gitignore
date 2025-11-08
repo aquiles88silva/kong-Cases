@@ -1,0 +1,21 @@
+# Arquivos de configuração local do Git/GitHub
+.gitpush-instructions.md
+ativar-conta-aquiles.bat
+ativar-conta-jeancarlos.bat
+copiar-chave-aquiles.bat
+copiar-chave-jeancarlos.bat
+gerar-chaves-ssh.bat
+verificar-conta.bat
+
+# Arquivos de configuração SSH (não devem ser commitados)
+# .ssh/
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.log
+*~
+
