@@ -1,4 +1,4 @@
-# Requisitos do Projeto Kong
+# Requisitos do Projeto Kong.
 
 Este diretório contém os requisitos de funcionalidades a serem implementadas no navegador Kong.
 
